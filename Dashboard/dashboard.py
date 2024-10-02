@@ -59,7 +59,7 @@ def create_rfm_df(df):
     return rfm_df
 
 # load berkas all_data.csv
-all_df = pd.read_csv("all_data.csv")
+all_df = pd.read_csv("https://raw.githubusercontent.com/rizkidwi07/Proyek-Analisis-Data/c214dc1e93fe080ffd037a9e45e5d500c40deda0/Dashboard/all_data.csv")
 
 # membuat kolom order_approved_at dan order_delivered_customer_date bertipe datetime
 datetime_columns = ["order_approved_at", "order_delivered_customer_date"]
