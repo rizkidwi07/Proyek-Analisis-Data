@@ -75,7 +75,7 @@ max_date = all_df["order_approved_at"].max()
  
 with st.sidebar:
     # menambahkan logo
-    st.image("e-commerce.png")
+    st.image("https://raw.githubusercontent.com/rizkidwi07/Proyek-Analisis-Data/b0222ba2b5a803ac3b2f394435bb62d8e2e261ca/Dashboard/e-commerce.png")
     
     # mengambil start_date & end_date dari date_input
     start_date, end_date = st.date_input(
