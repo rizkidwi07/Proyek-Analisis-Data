@@ -1,2 +1,1 @@
-url streamlit: 
-(https://ecommananalysis.streamlit.app/)
+deploy streamlit: https://ecommananalysis.streamlit.app/
