@@ -1,1 +1,1 @@
-deploy streamlit: https://ecommananalysis.streamlit.app/
+deploy streamlit: https://analysis-ecommerce-rizki-dwi.streamlit.app/
